@@ -10,6 +10,7 @@ Key Features
 
 
 The project requires:
+
 * Zend Framework 1.11 (http://framework.zend.com/)
 * 3Scale Account (http://www.3scale.net/admin)
 
